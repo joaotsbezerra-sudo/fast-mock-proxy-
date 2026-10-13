@@ -1,0 +1,18 @@
+{
+  "name": "fast-mock-proxy",
+  "version": "0.1.0",
+  "description": "Zero-config proxy & mock server CLI for local front-end development",
+  "main": "index.js",
+  "bin": {
+    "fast-mock-proxy": "./index.js"
+  },
+  "keywords": [
+    "mock",
+    "proxy",
+    "api",
+    "cli",
+    "devtools"
+  ],
+  "author": "joaotsbezerra-sudo",
+  "license": "MIT"
+}
